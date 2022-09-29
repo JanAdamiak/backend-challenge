@@ -1,4 +1,4 @@
-﻿period_id,period_name,week_commencing_date,brand_id,brand,gross_sales,units_sold
+period_id,period_name,week_commencing_date,brand_id,brand,gross_sales,units_sold
 1,previous,04/07/2021,1,Brand A,230.34,15
 1,previous,11/07/2021,1,Brand A,490.85,33
 1,previous,18/07/2021,1,Brand A,410.08,40

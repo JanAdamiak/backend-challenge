@@ -1,4 +1,4 @@
-﻿period_id,period_name,week_commencing_date,barcode_no,product_name,gross_sales,units_sold
+period_id,period_name,week_commencing_date,barcode_no,product_name,gross_sales,units_sold
 1,previous,04/07/2021,60988638,Product A,152.66,19
 1,previous,04/07/2021,59842899,Product B,39.27,13
 1,previous,04/07/2021,87149829,Product C,222.82,35
