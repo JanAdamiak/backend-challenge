@@ -34,7 +34,7 @@ You should ingest these files into a suitable data structure inside your program
 
 
 ### Task 2 - Perform Calculations
-This report will calculate the percentage change in the sales of a product / brand for a given week in the current period, compared with the corresponding week in the previous previous. For example, comparing sales from the week 04/07/**2022** (£183.08 for Product A) with the sales from the corresponding previous period week - 04/07/**2021** (£152.66 for Product A).
+This report will calculate the percentage change in the sales of a product / brand for a given week in the current period, compared with the corresponding week in the previous period. For example, comparing sales from the week 04/07/**2022** (£183.08 for Product A) with the sales from the corresponding previous period week - 04/07/**2021** (£152.66 for Product A).
 
 Using your transformed data, calculate the following for each week and for each product / brand, using the formula & edge cases below:
 
